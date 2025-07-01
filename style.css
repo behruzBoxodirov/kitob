@@ -1,9 +1,41 @@
-.card{
-width: 400px
-height: 600px;
-border: 2px solid red;
-text-aligen: center;
-background-color: rgb(25, 25, 113);
+main{
+border: 2px solid;
+margin: 0 auto;
+background-color: rgb(13, 160, 13);
+text-align: center;
+}
+
+
+
+main h1{
+font-size: 40px;
+color: aliceblue;
+
+
+
+
+
+
+
+
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
